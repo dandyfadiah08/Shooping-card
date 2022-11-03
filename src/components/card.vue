@@ -1,6 +1,6 @@
 <template>
     <div class="frame gap-5">
-      
+
     <div class="card1"
     >
         <div class="group">
@@ -12,7 +12,7 @@
         <div class="text">
           <label class="jenis">iPhone 9</label>
           <label class="deskripsi">An apple mobile which is nothing like apple</label>
-          <label class="harga">$ 549
+          <label class="harga">$ 549 
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
             <p class="hargadiscount">12.96%</p>
@@ -26,11 +26,11 @@
             <span class="rating">4.69</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('iPhone 9', 1 , 549 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
-        <span class="ok">Add To Card</span>
+        <span class="ok" >Add To Card</span>
         </button>
           </label>
         </div>
@@ -60,7 +60,7 @@
             <span class="rating">4.44</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('iPhone X', 1 , 899 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -94,7 +94,7 @@
             <span class="rating">4.09</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Samsung Universe 9', 1 , 1249 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -128,7 +128,7 @@
             <span class="rating">4.3</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('OPPOF19', 1 , 280 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -162,7 +162,7 @@
             <span class="rating">4.09</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Huawei P30', 1 , 499 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -196,7 +196,7 @@
             <span class="rating">4.57</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('MacBook Pro', 1 , 1749 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -230,7 +230,7 @@
             <span class="rating">4.25</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Samsung Galaxy Book', 1 , 1499 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -264,7 +264,7 @@
             <span class="rating">4.43</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Microsoft Surface Laptop 4', 1 , 1499 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -298,7 +298,7 @@
             <span class="rating">4.54</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12"  @click.prevent="checkout('Infinix INBOOK', 1 , 1099 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -332,7 +332,7 @@
             <span class="rating">4.43</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('HP Pavilion 15-DK1056WM', 1 , 1099 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -366,7 +366,7 @@
             <span class="rating">4.26</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('perfume Oil', 1 , 13 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -400,7 +400,7 @@
             <span class="rating">4</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Brown Perfume', 1 , 40 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -434,7 +434,7 @@
             <span class="rating">4.59</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12"  @click.prevent="checkout('Fog Scent Xpressio Perfume', 1 , 13 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -468,7 +468,7 @@
             <span class="rating">4.21</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Non-Alcoholic Concentrated Perfume Oil', 1 , 120 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -502,7 +502,7 @@
             <span class="rating">4.7</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Eau De Perfume Spray', 1 , 30 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -536,7 +536,7 @@
             <span class="rating">4.83</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Hyaluronic Acid Serum', 1 , 19 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -570,7 +570,7 @@
             <span class="rating">4.52</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Tree Oil 30ml', 1 , 12 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -604,7 +604,7 @@
             <span class="rating">4.56</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Oil Free Moisturizer 100ml', 1 , 40 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -638,7 +638,7 @@
             <span class="rating">4.42</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Skin Beauty Serum.', 1 , 46 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -672,7 +672,7 @@
             <span class="rating">4.06</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Freckle Treatment Cream- 15gm', 1 , 70 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -706,7 +706,7 @@
             <span class="rating">4.44</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Daal Masoor 500 grams', 1 , 20 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -740,7 +740,7 @@
             <span class="rating">4.57</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12"  @click.prevent="checkout('Elbow Macaroni - 400 gm', 1 , 14 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -774,7 +774,7 @@
             <span class="rating">4.85</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Orange Essence Food Flavou', 1 , 14 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -808,7 +808,7 @@
             <span class="rating">4.94</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('cereals muesli fruit nuts', 1 , 46 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -842,7 +842,7 @@
             <span class="rating">4.87</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Gulab Powder 50 Gram', 1 , 70 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -876,7 +876,7 @@
             <span class="rating">4.08</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Plant Hanger For Home', 1 , 41 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -910,7 +910,7 @@
             <span class="rating">4.41</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Flying Wooden Bird', 1 , 51 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -944,7 +944,7 @@
             <span class="rating">4.82</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('3D Embellishment Art Lamp', 1 , 20 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -978,7 +978,7 @@
             <span class="rating">4.44</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Handcraft Chinese style', 1 , 60 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -1012,7 +1012,7 @@
             <span class="rating">4.92</span>
             </span>
             
-        <button class="keranjang mt-12">
+        <button class="keranjang mt-12" @click.prevent="checkout('Key Holder', 1 , 30 )">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70534 0.823242H0.916672V3.65658H5.47551L9.39967 21.6171H9.41667V22.0732H27.8333V21.7219L30.9401 8.03549L31.4189 6.48991H8.92792L8.12042 2.79099L7.70534 0.823242ZM27.8149 9.32324H9.54701L11.7131 19.2399H25.5638L27.8149 9.32324Z" fill="white"/>
 </svg>
@@ -1029,17 +1029,20 @@
       <span class="Price-table">Price</span>
       <span class="Subtotal-table">Subtotal</span>
       </span>
-      <span class="flex items-center ml-10 mt-6 gap-4">
-      <span class="name-table">Iphone</span>
-      <span class="QTY-table">1</span>
-      <span class="Price-table">5.0000.000</span>
-      <span class="Subtotal-table">5.000.000</span>
+      <span class="flex items-center ml-10 mt-6 gap-4"
+      v-for="product in this.array_chekout" :key="product.id"
+      >
+      <span class="name-table mt-4">{{ product.Name }}</span>
+      <span class="QTY-table mt-4">{{ product.Qty }}</span>
+      <span class="Price-table mt-4">{{ product.Price }}</span>
+      <span class="Subtotal-table mt-4">{{ product.Subtotal }}</span>
       </span>
       <svg class="ml-14" width="396" height="2" viewBox="0 0 396 2" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 1H396" stroke="#E3E3E3"/>
 <span class="flex items-center ml-10 mt-6 gap-2">
       <span class="total-table">Total</span>
       <span class="jumlah-table ml-40">5.000.000</span>
+      
       </span>
       <button class="chekout mt-60 ml-12">
           <svg width="32" height="23" viewBox="0 0 32 23" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1048,7 +1051,7 @@
         <span class="ok">Checkout</span>
       </button>
 </svg>
-
+    
     </div>
     </div>
 </template>
@@ -1058,6 +1061,16 @@ import axios from 'axios'
 import { ref } from 'vue'
 export default {
   name: 'card',
+  data(){
+    return{
+      name:'',
+      qty:'',
+      price:'',
+      validasi:0,
+      length:'',
+      array_chekout:[],
+    }
+  },
   setup(){
     const quote = ref('')
     axios.get('https://dummyjson.com/products').then(response=>{
@@ -1069,7 +1082,31 @@ export default {
 },
   props: {
     msg: String
-  }
+  },
+  methods:{
+    checkout(name_product,qty_product,price_product){
+      this.name = name_product
+      this.qty = qty_product
+      this.price = price_product
+      this.length = this.array_chekout.length
+      if (this.length == 0) {
+        this.array_chekout.push({Name:this.name,Qty:this.qty,Price:this.price,Subtotal:(this.qty*this.price)})
+      }else{
+        for (let index = 0; index < this.array_chekout.length; index++) {
+          if (this.array_chekout[index].Name == this.name) {
+            this.array_chekout[index].Qty = this.array_chekout[index].Qty + this.qty
+            this.array_chekout[index].Subtotal = this.array_chekout[index].Subtotal + (this.qty*this.price)
+          }else{
+            this.validasi = 1
+          }
+          
+        }
+        if (this.validasi ==1) {
+          this.array_chekout.push({Name:this.name,Qty:this.qty,Price:this.price,Subtotal:(this.qty*this.price)})
+        }
+      }
+    }
+  },
 }
 
 </script>
