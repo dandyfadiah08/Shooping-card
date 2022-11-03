@@ -7,23 +7,23 @@
           <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">{{quote}}Samsung</label>
+          <label class="smartphone ml-10 mt-1">Smartphones</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">iPhone 9</label>
+          <label class="deskripsi">An apple mobile which is nothing like apple</label>
+          <label class="harga">$ 549
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">12.96%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 71.1504</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.69</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -38,26 +38,26 @@
     <div class="card2"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/2/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">smartphones</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">iPhone X</label>
+          <label class="deskripsi">SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic...</label>
+          <label class="harga">$ 899
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">17.94%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 161.2806</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.44</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -72,26 +72,26 @@
  <div class="card3"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/3/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">smartphones</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Samsung Universe 9</label>
+          <label class="deskripsi">Samsung's new variant which goes beyond Galaxy to the Universe</label>
+          <label class="harga">$ 1249
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">15.46%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 193.0954</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.09</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -106,26 +106,26 @@
      <div class="card4"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/4/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">smartphones</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">OPPOF19</label>
+          <label class="deskripsi">OPPO F19 is officially announced on April 2021.</label>
+          <label class="harga">$ 280
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">17.91%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 50.148</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.3</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -140,26 +140,26 @@
      <div class="card5"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/5/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">smartphones</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Huawei P30</label>
+          <label class="deskripsi">Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany ...</label>
+          <label class="harga">$ 499
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">10.58%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 52,7942</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.09</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -174,26 +174,26 @@
          <div class="card6"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/6/thumbnail.png" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">laptops</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">MacBook Pro</label>
+          <label class="deskripsi">MacBook Pro 2021 with mini-LED display may launch between September, November</label>
+          <label class="harga">$ 1749
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">11.02%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 192.7398</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.57</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -208,26 +208,26 @@
          <div class="card7"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/7/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">laptops</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Samsung Galaxy Book</label>
+          <label class="deskripsi">Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched</label>
+          <label class="harga">$ 1499
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">4.15%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 62.2085</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.25</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -242,26 +242,26 @@
          <div class="card8"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/8/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Microsoft Surface Laptop 4</label>
+          <label class="deskripsi">Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant ...</label>
+          <label class="harga">$ 1499
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">10.23%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 153.3477</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.43</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -276,26 +276,26 @@
          <div class="card9"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/9/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">laptops</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Infinix INBOOK</label>
+          <label class="deskripsi">nfinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty</label>
+          <label class="harga">$ 1099
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">11.83%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 130</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.54</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -310,26 +310,26 @@
          <div class="card10"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/10/thumbnail.jpeg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">laptops</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">HP Pavilion 15-DK1056WM</label>
+          <label class="deskripsi">HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD ...</label>
+          <label class="harga">$ 1099
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">6.18%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 68</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.43</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -344,26 +344,26 @@
          <div class="card11"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/11/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">fragrances</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">perfume Oil</label>
+          <label class="deskripsi">Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil</label>
+          <label class="harga">$ 13
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">8.4%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 1.1</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.26</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -378,26 +378,26 @@
          <div class="card12"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/12/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">fragrances</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Brown Perfume</label>
+          <label class="deskripsi">"Royal_Mirage Sport Brown Perfume for Men & Women - 120ml</label>
+          <label class="harga">$ 40
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">15.66%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 6.3</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -412,26 +412,26 @@
          <div class="card13"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/13/thumbnail.webp" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">fragrances</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Fog Scent Xpressio Perfume</label>
+          <label class="deskripsi">Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men</label>
+          <label class="harga">$ 13
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">8.14%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 0.41</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.59</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -446,26 +446,26 @@
          <div class="card14"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/14/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">fragrances</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Non-Alcoholic Concentrated Perfume Oil</label>
+          <label class="deskripsi">Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated ...</label>
+          <label class="harga">$ 120
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">15.6%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 18.7</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.21</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -480,26 +480,26 @@
          <div class="card15"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/15/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">fragrances</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Eau De Perfume Spray</label>
+          <label class="deskripsi">Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality</label>
+          <label class="harga">$ 30
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">10.99%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 3.3</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.7</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -514,26 +514,26 @@
          <div class="card16"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/16/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">skincare</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Hyaluronic Acid Serum</label>
+          <label class="deskripsi">L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic..</label>
+          <label class="harga">$ 19
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">13.31%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 2.5</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.83</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -548,26 +548,26 @@
          <div class="card17"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/17/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">skincare</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Tree Oil 30ml</label>
+          <label class="deskripsi">Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill ...</label>
+          <label class="harga">$ 12
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">4.09%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 0.5</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.52</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -582,20 +582,20 @@
          <div class="card18"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/18/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">skincare</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Oil Free Moisturizer 100ml</label>
+          <label class="deskripsi">Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic ...</label>
+          <label class="harga">$ 40
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">13.1%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 5,2</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -616,26 +616,26 @@
          <div class="card19"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/19/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">skincare</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Skin Beauty Serum.</label>
+          <label class="deskripsi">Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m</label>
+          <label class="harga">$ 46
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">10.68%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ </span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.42</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -650,26 +650,26 @@
          <div class="card20"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/20/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
-          <label class="smartphone ml-10 mt-1">Samsung</label>
+          <label class="smartphone ml-10 mt-1">skincare</label>
         </div>
         <div class="text">
-          <label class="jenis">Iphone 9</label>
-          <label class="deskripsi">deskripsi</label>
-          <label class="harga">RP.5.000.000
+          <label class="jenis">Freckle Treatment Cream- 15gm</label>
+          <label class="deskripsi">Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments...</label>
+          <label class="harga">$ 70
             <div class="flex items-center gap-2 mt-3">
             <div class="discountrektangel ">
-            <p class="hargadiscount">13%</p>
+            <p class="hargadiscount">16.99%</p>
             </div>
-            <span class="potongan text-sm line-through opacity-50">RP.6.600.00</span>
+            <span class="potongan text-sm line-through opacity-50">$ 12</span>
             </div>
             <span class="flex items-center mt-6 gap-2">
               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.549458 5.63406L5.64573 4.90408L7.92389 0.352135C7.98612 0.227506 8.08848 0.126615 8.21494 0.0652895C8.53207 -0.0890138 8.91746 0.0395723 9.07603 0.352135L11.3542 4.90408L16.4505 5.63406C16.591 5.65384 16.7194 5.71912 16.8178 5.81803C16.9367 5.93848 17.0022 6.10053 16.9999 6.26856C16.9977 6.4366 16.9278 6.59688 16.8057 6.71418L13.1185 10.2572L13.9896 15.2602C14.0101 15.3766 13.997 15.4963 13.9519 15.6057C13.9068 15.7151 13.8315 15.8099 13.7346 15.8793C13.6376 15.9488 13.5229 15.99 13.4033 15.9984C13.2838 16.0068 13.1643 15.982 13.0583 15.9269L8.49996 13.5648L3.94162 15.9269C3.81717 15.9922 3.67265 16.0139 3.53416 15.9902C3.1849 15.9308 2.95006 15.6044 3.01028 15.2602L3.8814 10.2572L0.194184 6.71418C0.0938245 6.61724 0.0275873 6.49064 0.00751532 6.35216C-0.046679 6.00597 0.198199 5.68549 0.549458 5.63406Z" fill="#FFC226"/>
 </svg>
-            <span class="rating">4.56</span>
+            <span class="rating">4.06</span>
             </span>
             
         <button class="keranjang mt-12">
@@ -684,7 +684,7 @@
          <div class="card21"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/21/thumbnail.png" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -718,7 +718,7 @@
          <div class="card22"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/22/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -752,7 +752,7 @@
          <div class="card23"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/23/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -786,7 +786,7 @@
          <div class="card24"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/24/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -820,7 +820,7 @@
          <div class="card25"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/25/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -854,7 +854,7 @@
          <div class="card26"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/26/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -888,7 +888,7 @@
          <div class="card27"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/27/thumbnail.webp" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -922,7 +922,7 @@
          <div class="card28"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/28/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -956,7 +956,7 @@
             <div class="card29"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/29/thumbnail.webp" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -990,7 +990,7 @@
             <div class="card30"
     >
         <div class="group">
-          <img class="foto" src="https://dummyjson.com/image/i/products/1/thumbnail.jpg" alt="foto">
+          <img class="foto" src="https://dummyjson.com/image/i/products/30/thumbnail.jpg" alt="foto">
         </div>
         <div class="rektangle ">
           <label class="smartphone ml-10 mt-1">Samsung</label>
@@ -1546,7 +1546,7 @@ top: 324px;
 }
 .jenis{
   position: absolute;
-width: 86px;
+width: 350px;
 height: 20px;
 left: 24px;
 top: 324px;
@@ -1596,7 +1596,7 @@ left: 856px;
 top: 485px;
 }
 .discountrektangel{
-width: 40px;
+width: 50px;
 height: 28px;
 left: 440px;
 top: 485px;
