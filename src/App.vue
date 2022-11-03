@@ -1,20 +1,22 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<body id="dekstop flex item-center justify-center gap-10">
+  <card />
+</body>
+  
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import card from './components/card.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    card
   }
 }
 </script>
 
-<style>
+<style scoped>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -22,5 +24,12 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+#dekstop{
+position: relative;
+width: 2504px;
+height: 1731px;
+
+background: #FCFCFC;
 }
 </style>
